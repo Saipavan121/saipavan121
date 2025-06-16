@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello! I'm Saipavan R
 
-<!--
-**Saipavan121/saipavan121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity Enthusiast | Python Scripter | TryHackMe Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 My Projects
+
+🛠️ Check out my practical cybersecurity scripts:
+- 🔍 [Port Scanner](https://github.com/Saipavan-R/cybersecurity-portfolio/blob/main/scripts/simple-port-scanner.py)
+- 🔐 [Password Strength Checker](https://github.com/Saipavan-R/cybersecurity-portfolio/blob/main/scripts/password-strength-checker.py)
+- 📄 [Log File Analyzer](https://github.com/Saipavan-R/cybersecurity-portfolio/blob/main/scripts/log-analyzer.py)
+
+📂 All scripts are here → [Cybersecurity Portfolio](https://github.com/Saipavan-R/cybersecurity-portfolio)
+
+---
+
+## 🎓 Learning Journey
+
+🧠 Platforms I Use:
+- 🛡️ [TryHackMe](https://tryhackme.com)
+- 👨‍💻 GitHub
+- 💬 Cybersecurity Discords & Reddit communities
+
+---
+
+## 📬 Contact Me
+
+- 📧 saipavan9731@email.com  : saipavan.ise.rymec@gmail.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sai-pavan-9635b2311/)
+
+---
+
+> “Hack the knowledge, not the system.”
